@@ -526,6 +526,16 @@
 		Blocks.push(new Block({l: 0, t: 1, cnt: turn}));
 		Blocks.push(new Block({l: 5, t: 1, cnt: turn}));
 		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
+		AddBalls.push(new AddBall({l: 1, t: 1}));
 		fb= Balls[0];
 		eve();
 		display();

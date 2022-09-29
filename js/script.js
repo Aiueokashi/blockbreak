@@ -531,11 +531,6 @@
 		AddBalls.push(new AddBall({l: 1, t: 1}));
 		AddBalls.push(new AddBall({l: 1, t: 1}));
 		AddBalls.push(new AddBall({l: 1, t: 1}));
-		AddBalls.push(new AddBall({l: 1, t: 1}));
-		AddBalls.push(new AddBall({l: 1, t: 1}));
-		AddBalls.push(new AddBall({l: 1, t: 1}));
-		AddBalls.push(new AddBall({l: 1, t: 1}));
-		AddBalls.push(new AddBall({l: 1, t: 1}));
 		fb= Balls[0];
 		eve();
 		display();

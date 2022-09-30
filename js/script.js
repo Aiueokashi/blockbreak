@@ -454,8 +454,6 @@
 				AddBalls.push(new AddBall({l: l, t: 1}));
 				AddBalls.push(new AddBall({l: l, t: 1}));
 				AddBalls.push(new AddBall({l: l, t: 1}));
-				AddBalls.push(new AddBall({l: l, t: 1}));
-				AddBalls.push(new AddBall({l: l, t: 1}));
 			}
 		}
 		recursive();
